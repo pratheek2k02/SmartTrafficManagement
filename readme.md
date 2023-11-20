@@ -63,7 +63,7 @@ Read more about object detection model used, working of the algorithm, and devel
 
 * Step I: Clone the Repository
 ```sh
-      $ git clone https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer
+      $ git clone https://github.com/vallabha03/Smart-Traffic-monitoring-system.git
 ```
 
 * Step II: Download the weights file from [here](https://drive.google.com/file/d/1flTehMwmGg-PMEeQCsDS2VWRLGzV6Wdo/view?usp=sharing) and place it in the Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow/bin directory
@@ -86,4 +86,7 @@ Read more about object detection model used, working of the algorithm, and devel
 ```
 
 ------------------------------------------
+###Acknowledgement 
 
+This project was originally developed by Mr. Mihir M Gandhi (https://github.com/mihir-m-gandhi) I extend my siciere thanks to him.
+Source repository link: https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer.git
