@@ -86,7 +86,8 @@ Read more about object detection model used, working of the algorithm, and devel
 ```
 
 ------------------------------------------
-###Acknowledgement 
-
+### Acknowledgement 
+```sh
 This project was originally developed by Mr. Mihir M Gandhi (https://github.com/mihir-m-gandhi) I extend my siciere thanks to him.
 Source repository link: https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer.git
+```
